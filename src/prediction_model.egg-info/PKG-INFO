@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: prediction_model
+Version: 1.0.0
+Summary: Loan Prediction Model
+Home-page: https://github.com/rsmeghana8
+Author: Sai Meghana Reppala
+Author-email: meghana.reppala@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+Requires-Dist: numpy==1.24.3
+Requires-Dist: pandas==2.1.1
+Requires-Dist: joblib==1.3.2
+Requires-Dist: scikit-learn==1.4.1.post1
+Requires-Dist: scipy==1.11.2
+Requires-Dist: setuptools==69.2.0
+Requires-Dist: wheel==0.42.0
+Requires-Dist: pytest==8.1.1
+Requires-Dist: fastapi==0.103.0
+Requires-Dist: pydantic==2.4.2
+Requires-Dist: uvicorn==0.23.2
+Requires-Dist: gunicorn==21.2.0
+
+
